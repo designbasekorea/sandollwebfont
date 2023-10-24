@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/opta-nextjs",
-  assetPrefix: "/opta-nextjs/",
+  basePath: "/designbase",
+  assetPrefix: "/designbase/",
   trailingSlash: true,
 };
 
