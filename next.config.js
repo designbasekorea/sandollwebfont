@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: "export",
-  basePath: "/designbase",
+  basePath: "/designbase",
   assetPrefix: "/designbase/",
   trailingSlash: true,
 };
