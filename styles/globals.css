@@ -126,7 +126,8 @@ body a:hover {
 }
 
 .header-logo img {
-  width: 70px;
+  display: block;
+  height: 24px;
   -webkit-transition: opacity 0.3s linear;
   transition: opacity 0.3s linear;
 }
@@ -247,9 +248,6 @@ body a:hover {
 }
 
 .menu-left-text {
-
-  
-  text-align: right;
   padding-right: 100px;
   font-size: 47px;
   line-height: 60px;
@@ -657,13 +655,13 @@ body a:hover {
 
 .page h1.entry-title {
 
-  font-size: 47px;
-  line-height: 60px;
+  font-size: 44px;
+  line-height: 1.25;
   
   max-width: 650px;
   margin: 0 auto;
   padding-top: 0;
-  padding-bottom: 35px;
+  padding-bottom: 20px;
   text-align: center;
 }
 
@@ -692,8 +690,8 @@ body a:hover {
 .page-desc {
   
   
-  font-size: 11px;
-  line-height: 15px;
+  font-size: 18px;
+  line-height: 1.5;
   text-align: center;
   letter-spacing: 1px;
 }

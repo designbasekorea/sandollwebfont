@@ -39,10 +39,9 @@ function Home() {
       {/* Page intro text */}
       <div className="content-1140 header-content center-relative block">
         <h1 className="entry-title">
-          Art studio from <Link href="/about">New York</Link> passionate about
-          creativity and crafting things since 1963.
+          함께 성장을 가장 중요한 가치로 생각합니다.
         </h1>
-        <p className="page-desc">PETER WALL + COCO BASIC</p>
+        <p className="page-desc">산돌구름 웹폰트 적용된 웹사이트</p>
       </div>
 
       <div id="content" className="site-content">
