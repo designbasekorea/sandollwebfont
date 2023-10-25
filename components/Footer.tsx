@@ -1,20 +1,12 @@
 import Link from "next/link";
 
-// Images
-import footerLogo from "@/assets/images/footer_logo_@x2.png";
-
-// ----------
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content content-1140 center-relative">
         {/* Your Contact links */}
-        <div className="footer-logo">
-          <Link href="/">
-            <img src={footerLogo.src} alt="Opta" />
-          </Link>
-        </div>
+     
         <div className="footer-text">
           <p className="footer-first-line">
             <Link href="mailto:designbasekorea@gmail.com">designbasekorea@gmail.com</Link>
@@ -55,11 +47,10 @@ const Footer = () => {
           <li className="widget widget_tag_cloud">
             <h4 className="widgettitle">Category</h4>
             <div className="tagcloud">
-              <Link href="">Architecture</Link>
+              <Link href="">UX/UI</Link>
               <Link href="">Branding</Link>
-              <Link href="">Fashion</Link>
+              <Link href="">Contents</Link>
               <Link href="">Interior</Link>
-              <Link href="">Jewelry</Link>
             </div>
           </li>
         </ul>
