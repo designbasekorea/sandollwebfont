@@ -17,38 +17,17 @@ const Footer = () => {
         </div>
         <div className="footer-text">
           <p className="footer-first-line">
-            <Link href="mailto:hello@yoursite.com">hello@yoursite.com</Link>
-          </p>
-          <p className="footer-second-line">
-            or can use our <Link href="/contact">contact form</Link> as well
+            <Link href="mailto:designbasekorea@gmail.com">designbasekorea@gmail.com</Link>
           </p>
         </div>
-        <div className="our-position-holder">
-          <div className="our-position-left">
-            <p className="position-lat">
-              <Link href="https://goo.gl/Iuqj8E" target="_blank">
-                40.758896° N
-              </Link>
-            </p>
-          </div>
-          <div className="our-position-right">
-            <p className="position-lng">
-              <Link href="https://goo.gl/Iuqj8E" target="_blank">
-                -73.985130° W
-              </Link>
-            </p>
-          </div>
-        </div>
-
+        
         <ul id="footer-sidebar">
           <li className="widget widget_text">
             <h4 className="widgettitle">Opta</h4>
             {/* Contact Info */}
             <div className="textwidget">
-              <p>235 Fifth Avenue, 27th fl. NY, US</p>
-              <p>Phone: +123.456.789</p>
-              <p>Mobile: +123.456.789</p>
-              <p>Email: hello@yoursite.com</p>
+              <p>Phone: 010.3456.7890</p>
+              <p>Email: designbasekorea@gmail.com</p>
             </div>
           </li>
           {/* Recent Blog Articles */}
@@ -88,7 +67,7 @@ const Footer = () => {
         {/* Coptright and social links */}
         <ul className="copyright-holder">
           <li className="copyright-footer">
-            © {new Date(Date.now()).getFullYear()} - COCO + BASIC
+            © {new Date(Date.now()).getFullYear()} designbase
           </li>
           <li className="social-footer">
             <Link href="https://twitter.com/">TWITTER</Link>
