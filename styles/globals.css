@@ -1,32 +1,7 @@
-/*------------------------------------------------------------------
-
-version 1.2
-
-[Table of contents]
-1. Global CSS
-        1.1 Global Header Logo/Menu CSS	
-2. Blog Page CSS
-3. General Page CSS
-4. About Page CSS
-5. Single Post CSS
-6. Archive Page CSS
-7. Search Page CSS
-8. Portfolio (Home) Page CSS
-        8.1 Portfolio Single Post CSS
-9. Gallery Page CSS
-        9.1 Gallery Single Post CSS
-10. Contact Page CSS
-11. Footer CSS
-12. Responsive CSS
--------------------------------------------------------------------*/
-
-/* ===================================
-    1. Global CSS
-====================================== */
-
 body {
-  font-family: Sandoll Smiley Sans;
-
+  /* font-family: Sandoll Smiley Sans; */
+  font-family: SD PixelGoodmorning;
+font-weight: 400;
   font-size: 17px;
   line-height: 35px;
   color: #000;

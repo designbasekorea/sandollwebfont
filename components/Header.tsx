@@ -75,9 +75,8 @@ const Header = () => {
             >
               <div className="menu-left-part">
                 <div className="menu-left-text">
-                  Welcome to our online art journey. You can read our{" "}
-                  <Link href="/blog">thoughts</Link> or you can simply{" "}
-                  <Link href="/contact">write to us</Link>
+                디자인을 좋아하는 디자이너 혼자 운영하는 사이트입니다.
+                                디자인 툴부터 기초 지식, 실무 지식까지 디자인을 쉽게 배울 수 있도록 만들었어요.
                 </div>
               </div>
               <div className="menu-right-part">
