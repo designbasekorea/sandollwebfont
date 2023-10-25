@@ -25,10 +25,10 @@ version 1.2
 ====================================== */
 
 body {
-  font-family: "Roboto", serif;
+  font-family: Sandoll Smiley Sans;
+
   font-size: 17px;
   line-height: 35px;
-  font-weight: 400;
   color: #000;
   background-color: #fff;
 }
@@ -247,8 +247,8 @@ body a:hover {
 }
 
 .menu-left-text {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   text-align: right;
   padding-right: 100px;
   font-size: 47px;
@@ -268,7 +268,7 @@ body a:hover {
 }
 
 #header-main-menu {
-  font-weight: 300;
+  
   text-align: left;
   padding-left: 100px;
   margin-top: 60px;
@@ -308,11 +308,11 @@ body a:hover {
 
 .widget_search .search-field,
 #header-main-menu .search-field {
-  font-family: "Roboto", serif;
+  
   max-width: 350px;
   width: 90%;
   color: #fff;
-  font-weight: 300;
+  
   font-size: 24px;
   line-height: 24px;
   background-color: transparent;
@@ -359,8 +359,8 @@ body a:hover {
 
 .widget_search .search-field::-webkit-input-placeholder,
 #header-main-menu .search-field::-webkit-input-placeholder {
-  font-family: "Roboto", serif;
-  font-weight: 300;
+  
+  
   color: #fff;
   font-size: 24px;
   line-height: 24px;
@@ -374,8 +374,8 @@ body a:hover {
 
 .widget_search .search-field::-moz-placeholder,
 #header-main-menu .search-field::-moz-placeholder {
-  font-family: "Roboto", serif;
-  font-weight: 300;
+  
+  
   color: #fff;
   font-size: 24px;
   line-height: 24px;
@@ -389,8 +389,8 @@ body a:hover {
 
 .widget_search .search-field:-ms-input-placeholder,
 #header-main-menu .search-field:-ms-input-placeholder {
-  font-family: "Roboto", serif;
-  font-weight: 300;
+  
+  
   color: #fff;
   font-size: 24px;
   line-height: 24px;
@@ -404,8 +404,8 @@ body a:hover {
 
 .widget_search .search-field:-moz-placeholder,
 #header-main-menu .search-field:-moz-placeholder {
-  font-family: "Roboto", serif;
-  font-weight: 300;
+  
+  
   color: #fff;
   font-size: 24px;
   line-height: 24px;
@@ -425,8 +425,8 @@ body a:hover {
 }
 
 .portfolio-category a {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
+  
+  
   line-height: 100%;
   font-size: 10px;
   color: #fff;
@@ -511,8 +511,8 @@ body a:hover {
 }
 
 .post-num {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   font-size: 100px;
   line-height: 100%;
   margin-top: -30px;
@@ -534,8 +534,8 @@ body a:hover {
 }
 
 .entry-info {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  
+  
   font-size: 11px;
   letter-spacing: 2px;
   line-height: 22px;
@@ -577,8 +577,8 @@ body a:hover {
 
 .blog-item-holder h2.entry-title {
   display: block;
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   font-size: 44px;
   line-height: 44px;
 }
@@ -656,10 +656,10 @@ body a:hover {
 }
 
 .page h1.entry-title {
-  font-family: "Playfair Display", serif;
+
   font-size: 47px;
   line-height: 60px;
-  font-weight: 400;
+  
   max-width: 650px;
   margin: 0 auto;
   padding-top: 0;
@@ -690,8 +690,8 @@ body a:hover {
 }
 
 .page-desc {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  
+  
   font-size: 11px;
   line-height: 15px;
   text-align: center;
@@ -699,7 +699,7 @@ body a:hover {
 }
 
 .header-signature {
-  font-family: "Mr De Haviland", cursive;
+  
   font-size: 420px;
   color: #f7f7f7;
   text-align: center;
@@ -725,12 +725,12 @@ body a:hover {
   line-height: 15px;
   font-style: italic;
   color: #b4b4b4;
-  font-weight: 400;
+  
 }
 
 .info-code-content {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  
+  
   font-size: 11px;
   line-height: 18px;
   letter-spacing: 2px;
@@ -768,8 +768,8 @@ body a:hover {
 }
 
 .progress_bar_title {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  
+  
   font-size: 11px;
   text-transform: uppercase;
   letter-spacing: 2px;
@@ -793,8 +793,8 @@ body a:hover {
 }
 
 .single h1.entry-title {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   color: #000;
   font-size: 60px;
   line-height: 60px;
@@ -815,7 +815,7 @@ body a:hover {
 }
 
 .single-post .entry-content {
-  font-weight: 300;
+  
 }
 
 .single .post-num {
@@ -828,7 +828,7 @@ body a:hover {
 }
 
 .tags-holder {
-  font-family: "Montserrat", sans-serif;
+  
   margin: 50px 0;
   display: inline-block;
 }
@@ -890,15 +890,15 @@ body a:hover {
 }
 
 .nav-links p {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  
+  
   font-size: 11px;
 }
 
 .nav-previous a,
 .nav-next a {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   font-size: 30px;
   line-height: 35px;
 }
@@ -916,8 +916,8 @@ body a:hover {
 ====================================== */
 
 .archive-title h1 {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   border-bottom: 2px solid;
   display: inline-block;
 }
@@ -947,8 +947,8 @@ body a:hover {
 ====================================== */
 
 .search .search-title h1 {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   border-bottom: 2px solid;
   display: inline-block;
 }
@@ -973,7 +973,7 @@ body a:hover {
 }
 
 .grid-item.quote-item {
-  font-family: "Playfair Display", serif;
+
   width: 400px;
   font-size: 40px;
   line-height: 60px;
@@ -981,8 +981,8 @@ body a:hover {
 }
 
 .grid-item.quote-item:before {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
+  
+  
   display: block;
   content: "\201C";
   font-size: 470px;
@@ -1054,7 +1054,7 @@ body a:hover {
 } */
 
 .portfolio-text-holder .portfolio-text {
-  font-family: "Playfair Display", serif;
+
   font-size: 36px;
   line-height: 100%;
 }
@@ -1068,7 +1068,7 @@ body a:hover {
 }
 
 .portfolio-text-holder .portfolio-category a {
-  font-weight: 700;
+  
   color: #d7b065;
   margin-right: 0;
 }
@@ -1252,8 +1252,8 @@ body a:hover {
 }
 
 .carousel-slider .gallery-item .item-text a {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   font-size: 40px;
   line-height: 45px;
   -ms-word-wrap: break-word;
@@ -1274,8 +1274,8 @@ body a:hover {
 ====================================== */
 
 .single-gallery h1.entry-title {
-  font-family: "Playfair Display", serif;
-  font-weight: 400;
+
+  
   font-size: 60px;
   line-height: 60px;
   -ms-word-wrap: break-word;
@@ -1292,12 +1292,12 @@ body a:hover {
 ====================================== */
 
 .big-text {
-  font-family: "Playfair Display", serif;
+
   font-size: 46px;
   line-height: 50px;
   color: #000;
   padding: 0;
-  font-weight: 400;
+  
 }
 
 .contact-form {
@@ -1317,8 +1317,8 @@ body a:hover {
   height: 28px;
   font-size: 18px;
   line-height: 25px;
-  font-family: "Roboto", serif;
-  font-weight: 300;
+  
+  
   width: 100%;
   padding: 0;
   margin-bottom: 40px;
@@ -1330,18 +1330,18 @@ body a:hover {
 .contact-form input[type="text"]::-webkit-input-placeholder,
 .contact-form input[type="email"]::-webkit-input-placeholder,
 .contact-form textarea::-webkit-input-placeholder {
-  font-family: "Roboto", serif;
+  
   color: #4b4b4b;
-  font-weight: 300;
+  
   font-size: 18px;
   line-height: 25px;
 }
 .contact-form input[type="text"]::-moz-placeholder,
 .contact-form input[type="email"]::-moz-placeholder,
 .contact-form textarea::-moz-placeholder {
-  font-family: "Roboto", serif;
+  
   color: #4b4b4b;
-  font-weight: 300;
+  
   font-size: 18px;
   line-height: 25px;
   opacity: 1;
@@ -1349,18 +1349,18 @@ body a:hover {
 .contact-form input[type="text"]:-ms-input-placeholder,
 .contact-form input[type="email"]:-ms-input-placeholder,
 .contact-form textarea:-ms-input-placeholder {
-  font-family: "Roboto", serif;
+  
   color: #4b4b4b;
-  font-weight: 300;
+  
   font-size: 18px;
   line-height: 25px;
 }
 .contact-form input[type="text"]:-moz-placeholder,
 .contact-form input[type="email"]:-moz-placeholder,
 .contact-form textarea:-moz-placeholder {
-  font-family: "Roboto", serif;
+  
   color: #4b4b4b;
-  font-weight: 300;
+  
   font-size: 18px;
   line-height: 25px;
   opacity: 1;
@@ -1398,8 +1398,8 @@ body a:hover {
   padding: 10px 0px;
   cursor: pointer;
   background: transparent;
-  font-family: "Roboto", serif;
-  font-weight: 300;
+  
+  
   width: 100%;
   font-size: 18px;
   border: 0;
@@ -1497,7 +1497,7 @@ footer ul {
 }
 
 .footer-first-line {
-  font-family: "Playfair Display", serif;
+
   font-size: 47px;
   line-height: 60px;
 }
@@ -1507,7 +1507,7 @@ footer ul {
 }
 
 .footer-second-line {
-  font-weight: 400;
+  
   padding-top: 20px;
 }
 
@@ -1516,7 +1516,7 @@ footer ul {
 }
 
 .our-position-holder {
-  font-family: "Playfair Display", serif;
+
   position: relative;
   font-size: 24px;
   padding: 35px 0;
@@ -1579,7 +1579,7 @@ ul#footer-sidebar {
 
 h4.widgettitle {
   font-size: 16px;
-  font-family: "Playfair Display", serif;
+
 }
 
 .tagcloud a {
@@ -1599,8 +1599,8 @@ h4.widgettitle {
 }
 
 ul.copyright-holder {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 400;
+  
+  
   font-size: 10px;
 }
 

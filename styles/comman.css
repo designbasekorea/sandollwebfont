@@ -169,7 +169,7 @@ blockquote {
 }
 blockquote:before {
   content: "\201C";
-  font-family: "Montserrat", sans-serif;
+ 
   color: #fae3b5;
   font-size: 250px;
   line-height: 0;
