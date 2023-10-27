@@ -6,6 +6,7 @@ import Link from "next/link";
 
 // Images
 import arrow from "@/assets/images/opta_arrow@2x.png";
+import img00 from "@/assets/images/home/img_00.jpg";
 import img01 from "@/assets/images/home/img_01.jpg";
 import img02 from "@/assets/images/home/img_02.jpg";
 import img03 from "@/assets/images/home/img_03.jpg";
@@ -46,6 +47,34 @@ function Home() {
 
       <div id="content" className="site-content">
         {/* Portfolio items */}
+        <motion.li
+            initial={{ opacity: 0, transform: `translateY(50px)` }}
+            whileInView={{ opacity: 1, transform: `translateY(0px)` }}
+            viewport={{ once: true }}
+            className="grid-item element-item "
+          >
+            <div className="item-wrapper">
+              <Link href="/single-portfolio">
+                <img src={img00.src} alt="" />
+              </Link>
+              <div className="portfolio-text-holder">
+                <div className="portfolio-info">
+                  <Link className="portfolio-text" href="/single-portfolio">
+                    Clothes
+                  </Link>
+                  <p className="portfolio-category">
+                    <Link href="">Fashion</Link>
+                  </p>
+                  <p className="portfolio-arrow">
+                    <Link href="/single-portfolio">
+                      <img src={arrow.src} alt="" />
+                    </Link>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </motion.li>
+
         <ul className="grid" id="portfolio">
           <motion.li
             initial={{ opacity: 0, transform: `translateY(50px)` }}
