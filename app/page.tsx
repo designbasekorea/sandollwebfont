@@ -37,16 +37,14 @@ function Home() {
 
   return (
     <main className="page">
-      {/* Page intro text */}
       <div className="content-1140 header-content center-relative block">
         <h1 className="entry-title">
-          폰트에 따라 <br>달라지는 분위기
+          폰트에 따라 </br>달라지는 분위기
         </h1>
         <p className="page-desc">산돌구름 웹폰트 적용된 웹사이트</p>
       </div>
 
       <div id="content" className="site-content">
-        {/* Portfolio items */}
         <motion.li
             initial={{ opacity: 0, transform: `translateY(50px)` }}
             whileInView={{ opacity: 1, transform: `translateY(0px)` }}
