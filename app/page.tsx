@@ -51,7 +51,7 @@ function Home() {
             initial={{ opacity: 0, transform: `translateY(50px)` }}
             whileInView={{ opacity: 1, transform: `translateY(0px)` }}
             viewport={{ once: true }}
-            className="grid-item element-item "
+            className="grid-item-full element-item "
           >
             <div className="item-wrapper">
               <Link href="/single-portfolio">

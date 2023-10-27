@@ -980,7 +980,14 @@ body a:hover {
   display: inline-block;
   position: relative;
 }
-
+.grid-item-full{
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 0;
+  line-height: 0;
+  margin: 3%;
+  max-width: 100%;
+}
 .grid-item {
   display: inline-block;
   vertical-align: middle;
