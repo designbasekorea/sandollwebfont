@@ -54,11 +54,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Fashion</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -83,11 +79,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Fashion</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -110,11 +102,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Fashion</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -137,11 +125,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Interior</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -173,11 +157,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Jewelry</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -200,11 +180,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Branding</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -227,11 +203,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Architecture</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>
@@ -254,11 +226,7 @@ function Home() {
                   <p className="portfolio-category">
                     <Link href="">Interior</Link>
                   </p>
-                  <p className="portfolio-arrow">
-                    <Link href="/single-portfolio">
-                      <img src={arrow.src} alt="" />
-                    </Link>
-                  </p>
+                  
                 </div>
               </div>
             </div>

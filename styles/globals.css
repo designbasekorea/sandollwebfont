@@ -1018,24 +1018,15 @@ body a:hover {
 
 .portfolio-text-holder {
   position: absolute;
-  top: 30px;
-  left: 30px;
-  bottom: 30px;
-  right: 30px;
+  
+  bottom: 0;
+  right: 0;
+  padding:20px;
   font-size: 20px;
   background-color: white;
-  text-align: center;
+  text-align: left;
   display: flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0;
-  transition: opacity 0.3s ease-out;
 }
-
-/* .portfolio-text-holder .portfolio-info {
-  display: flex;
-} */
-
 .portfolio-text-holder .portfolio-text {
 
   font-size: 36px;
@@ -1052,7 +1043,7 @@ body a:hover {
 
 .portfolio-text-holder .portfolio-category a {
   
-  color: #d7b065;
+  color: #4e79ef;
   margin-right: 0;
 }
 
@@ -1846,13 +1837,6 @@ li.social-footer a:first-child {
   .grid-item.quote-item {
     font-size: 30px;
     line-height: 45px;
-  }
-
-  .portfolio-text-holder {
-    top: 10px;
-    left: 10px;
-    bottom: 10px;
-    right: 10px;
   }
 
   .carousel-slider .gallery-item .item-text a {
