@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import Link from "next/link";
 
 // Images
-import logo from "@/assets/images/logo_@x2.png";
+import logo from "@/assets/images/logotype.svg";
 
 // --------------
 

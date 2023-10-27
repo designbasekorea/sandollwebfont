@@ -102,7 +102,7 @@ body a:hover {
 
 .header-logo img {
   display: block;
-  height: 50px;
+  height: 32px;
   -webkit-transition: opacity 0.3s linear;
   transition: opacity 0.3s linear;
 }
@@ -985,7 +985,8 @@ body a:hover {
   vertical-align: middle;
   font-size: 0;
   line-height: 0;
-  margin: 3%;
+  text-align: center;
+  margin-bottom: 3%;
   max-width: 100%;
 }
 .grid-item {
