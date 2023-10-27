@@ -1481,8 +1481,8 @@ footer ul {
 
 .footer-first-line {
 
-  font-size: 47px;
-  line-height: 60px;
+  font-size: 48px;
+  line-height: 1;
 }
 
 .footer-first-line a {
@@ -1907,11 +1907,6 @@ li.social-footer a:first-child {
     padding-bottom: 30px;
   }
 
-  .footer-first-line {
-    font-size: 35px;
-    line-height: 35px;
-  }
-
   .our-position-left {
     display: block;
     padding-right: 0;
@@ -2023,4 +2018,21 @@ li.social-footer a:first-child {
 
 .video-framer iframe {
   aspect-ratio: 16 / 9;
+}
+
+@media screen and (max-width: 767px) {
+.header-logo img {
+  height: 18px;
+}
+.header-logo{
+  padding:16px 0;
+}
+.grid-item-full img, .grid-item img{
+width: 100%;
+display: block;
+}
+.footer-first-line{
+  font-size: 24px;
+  line-height: 1;
+}
 }
