@@ -137,7 +137,7 @@ function Home() {
             viewport={{ once: true }}
             className="grid-item element-item quote-item "
           >
-            디자인 툴 강의부터 디자인 이론과 코딩 지식까지 한 번에 배워보세요.
+            디자인부터 코딩 지식까지 한 번에 끝내기
           </motion.li>
           <motion.li
             initial={{ opacity: 0, transform: `translateY(50px)` }}
