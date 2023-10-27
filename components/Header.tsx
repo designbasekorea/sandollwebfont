@@ -75,8 +75,7 @@ const Header = () => {
             >
               <div className="menu-left-part">
                 <div className="menu-left-text">
-                디자인을 좋아하는 디자이너 혼자 운영하는 사이트입니다.
-                                디자인 툴부터 기초 지식, 실무 지식까지 디자인을 쉽게 배울 수 있도록 만들었어요.
+                  디자인 툴부터 기초 지식, 실무 지식까지 디자인을 쉽게 배울 수 있도록
                 </div>
               </div>
               <div className="menu-right-part">
@@ -115,14 +114,7 @@ const Header = () => {
                         Gallery
                       </Link>
                     </li>
-                    <li>
-                      <Link
-                        href="/contact"
-                        className={pathname === "/contact" ? "current" : ""}
-                      >
-                        Contact
-                      </Link>
-                    </li>
+                   
                   </ul>
                   <form role="search" className="search-form">
                     <label>
@@ -141,8 +133,6 @@ const Header = () => {
                     <Link href="">Architecture</Link>
                     <Link href="">Branding</Link>
                     <Link href="">Fashion</Link>
-                    <Link href="">Interior</Link>
-                    <Link href="">Jewelry</Link>
                   </p>
                 </div>
               </div>
