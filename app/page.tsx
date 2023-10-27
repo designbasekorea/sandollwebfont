@@ -19,15 +19,6 @@ import img09 from "@/assets/images/home/img_09.jpg";
 import img10 from "@/assets/images/home/img_10.jpg";
 import img11 from "@/assets/images/home/img_11.jpg";
 
-/**
- *
- * TODO:
- *  -- start in the documentation structure
- *  -- build documentation using docusource
- */
-
-// ------------
-
 function Home() {
   const [loadedAll, setLoadedAll] = useState<boolean>(false);
 

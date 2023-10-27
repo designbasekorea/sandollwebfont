@@ -6,7 +6,7 @@ import { usePathname } from "next/navigation";
 import Link from "next/link";
 
 // Images
-import logo from "@/assets/images/logotype.svg";
+import logo from "@/assets/images/logotype.png";
 
 // --------------
 
@@ -42,7 +42,7 @@ const Header = () => {
       >
         <div className="header-logo center-text">
           <Link href="/">
-            <img src={logo.src} alt="Opta" />
+            <img src={logo.src} alt="designbase" />
           </Link>
         </div>
 
