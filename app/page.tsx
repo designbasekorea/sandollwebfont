@@ -30,7 +30,7 @@ function Home() {
     <main className="page">
       <div className="content-1140 header-content center-relative block">
         <h1 className="entry-title">
-          폰트에 따라 </br>달라지는 분위기
+          폰트에 따라 <br/>달라지는 분위기
         </h1>
         <p className="page-desc">산돌구름 웹폰트 적용된 웹사이트</p>
       </div>
