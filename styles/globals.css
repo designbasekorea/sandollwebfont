@@ -1,12 +1,15 @@
 body {
-  font-family: Sandoll GothicNeo1 TTF;
+  font-family: SD Tapi, Sandoll RomanStencil, Sandoll MyeongjoNeo1, Smiley Sans;
+  
   font-weight: 400;
   font-size: 17px;
   line-height: 35px;
   color: #000;
   background-color: #fff;
 }
-
+.title{
+  font-family: SD Tapi;
+}
 body a {
   text-decoration: none;
   color: #000;
