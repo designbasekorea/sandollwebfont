@@ -1,21 +1,10 @@
 body {
-  /* font-family: Sandoll Smiley Sans; */
-  /* font-family: SD PixelGoodmorning; */
   font-family: Sandoll GothicNeo1 TTF;
   font-weight: 400;
   font-size: 17px;
   line-height: 35px;
   color: #000;
   background-color: #fff;
-}
-
-.title{
-  font-family: Sandoll Smiley Sans;
-  font-weight: 700;
-}
-.body{
-  font-family: Sandoll GothicNeo1 TTF;
-  font-family: Sandoll MyeongjoNeo1;
 }
 
 body a {
@@ -48,13 +37,6 @@ body a:hover {
   background-color: #fff;
 }
 
-.animate {
-  /* opacity: 0; */
-  /* transition: 0.3s ease-in;
-  -ms-transform: translate(0px, 70px);
-  -webkit-transform: translate(0px, 70px);
-  transform: translate(0px, 70px); */
-}
 
 .animate.show-it {
   opacity: 1;
