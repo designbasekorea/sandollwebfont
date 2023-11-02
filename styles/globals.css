@@ -1,5 +1,5 @@
 body {
-  font-family: Sandoll RomanStencil, Sandoll MyeongjoNeo1, Smiley Sans;
+  font-family: Sandoll MyeongjoNeo1;
   
   font-weight: 400;
   font-size: 17px;
@@ -8,7 +8,7 @@ body {
   background-color: #fff;
 }
 .title{
-  font-family: SD Tapi;
+  font-family: Sandoll Heuksong;
 }
 body a {
   text-decoration: none;
